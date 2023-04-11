@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CollegeProjects/UpToDate/app/src/main/res/layout/activity_demo_news_feed.xml" value="0.10989583333333333" />
+        <entry key="..\:/CollegeProjects/UpToDate/app/src/main/res/layout/activity_search.xml" value="0.1" />
+        <entry key="..\:/CollegeProjects/UpToDate/app/src/main/res/layout/card_layout.xml" value="0.1" />
+        <entry key="..\:/CollegeProjects/UpToDate/app/src/main/res/layout/newsfeed_item.xml" value="0.264" />
+        <entry key="app/src/main/res/drawable-anydpi/ic_sample.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-v24/edit_text_border.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1165" />
+        <entry key="app/src/main/res/drawable/circular_white_border.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/edit_text_border.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/edit_text_border_white.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_news.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/rounded_border.xml" value="0.1165" />
+        <entry key="app/src/main/res/drawable/skip_for_now_border.xml" value="0.1055" />
+        <entry key="app/src/main/res/font/josefin_sans_thin.xml" value="0.22359982898674646" />
+        <entry key="app/src/main/res/layout-v27/layout.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activ ity_contact_us.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/activity_demo_news_feed.xml" value="0.12740487387772553" />
+        <entry key="app/src/main/res/layout/activity_edit_profile.xml" value="0.2718582153320313" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.19880290722530997" />
+        <entry key="app/src/main/res/layout/activity_main2.xml" value="0.12740487387772553" />
+        <entry key="app/src/main/res/layout/activity_profile.xml" value="0.3074866310160428" />
+        <entry key="app/src/main/res/layout/activity_recycler.xml" value="0.2050761421319797" />
+        <entry key="app/src/main/res/layout/activity_recycler_country.xml" value="0.2543822146216332" />
+        <entry key="app/src/main/res/layout/activity_recycler_preference.xml" value="0.2543822146216332" />
+        <entry key="app/src/main/res/layout/activity_recycler_result.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_search.xml" value="0.12740487387772553" />
+        <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.19880290722530997" />
+        <entry key="app/src/main/res/layout/card_layout.xml" value="0.12740487387772553" />
+        <entry key="app/src/main/res/layout/circular_white_border.xml" value="0.18725951261222745" />
+        <entry key="app/src/main/res/layout/edit_text_border.xml" value="0.19880290722530997" />
+        <entry key="app/src/main/res/layout/fragment_about_us.xml" value="0.21333903377511756" />
+        <entry key="app/src/main/res/layout/fragment_blog.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_contact_us.xml" value="0.30296020507812504" />
+        <entry key="app/src/main/res/layout/fragment_country_based_news.xml" value="0.3983739837398374" />
+        <entry key="app/src/main/res/layout/fragment_edit_profile.xml" value="0.11711578369140624" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/fragment_preference.xml" value="0.40208129882812504" />
+        <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.10991379310344827" />
+        <entry key="app/src/main/res/layout/fragment_search.xml" value="0.10604146321614577" />
+        <entry key="app/src/main/res/layout/fragment_search_result.xml" value="0.2229580573951435" />
+        <entry key="app/src/main/res/layout/fragment_sign_in.xml" value="0.33767089843750003" />
+        <entry key="app/src/main/res/layout/fragment_sign_up.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_splash_screen.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/ic_globe.xml" value="0.11500641299700727" />
+        <entry key="app/src/main/res/layout/ic_home.xml" value="0.11500641299700727" />
+        <entry key="app/src/main/res/layout/ic_launcher_background.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/ic_user.xml" value="0.11500641299700727" />
+        <entry key="app/src/main/res/layout/news_card.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/profile_circular_border_imageview.xml" value="0.19880290722530997" />
+        <entry key="app/src/main/res/layout/recycler_layout.xml" value="0.19628535246939638" />
+        <entry key="app/src/main/res/layout/round_button.xml" value="0.11500641299700727" />
+        <entry key="app/src/main/res/layout/rounded_border.xml" value="0.11500641299700727" />
+        <entry key="app/src/main/res/layout/skip_for_now_border.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/toolbar_title_layout.xml" value="0.2535271483539974" />
+        <entry key="app/src/main/res/menu/menu.xml" value="0.12654980761008977" />
+        <entry key="app/src/main/res/menu/menu_bottom.xml" value="0.12740487387772553" />
+        <entry key="app/src/main/res/menu/menu_bottom_bar.xml" value="0.11500641299700727" />
+        <entry key="app/src/main/res/menu/nav_menu.xml" value="0.19544111439425918" />
+        <entry key="app/src/main/res/xml/skip_for_now_border.xml" value="0.12654980761008977" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

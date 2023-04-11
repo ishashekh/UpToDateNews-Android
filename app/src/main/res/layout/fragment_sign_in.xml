@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2D60E3"
+    android:orientation="vertical"
+    android:paddingHorizontal="20dp"
+    tools:context=".SignUpFragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sign In Today And"
+        android:textAlignment="center"
+        android:textColor="#fff"
+        android:layout_marginTop="36dp"
+        android:textSize="28sp"
+        android:fontFamily="@font/josefin_sans_thin"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Discover Your Preffered News!"
+        android:textAlignment="center"
+        android:textColor="#fff"
+        android:fontFamily="@font/josefin_sans_thin"
+        android:textSize="28sp"
+        />
+
+    <EditText
+        android:id="@+id/input_your_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/edit_text_border_white"
+        android:padding="15dp"
+        android:textColor="#fff"
+        android:hint="@string/input_email_address"
+        android:textColorHint="#fff"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/input_email_address"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/edit_text_border_white"
+        android:padding="15dp"
+        android:textColor="#fff"
+        android:hint="@string/input_password"
+        android:textColorHint="#fff"
+        android:textSize="20sp" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/sign_in"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:background="@color/buttonColor"
+        android:padding="15dp"
+        android:text="Sign In"
+        android:textSize="20sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/josefin_sans_thin"
+        android:text="━━━━  OR  ━━━━"
+        android:textAlignment="center"
+        android:textColor="#fff"
+        android:textSize="13sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/josefin_sans_thin"
+            android:text="Create A New Account: "
+            android:textAlignment="center"
+            android:textColor="#fff"
+            android:textSize="20sp" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/sign_up_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/buttonColor"
+            android:layout_marginStart="10dp"
+            android:text="Sign Up" />
+
+    </LinearLayout>
+
+</LinearLayout>

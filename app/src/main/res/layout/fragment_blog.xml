@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FFF"
+    android:padding="32dp">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/rounded_border"
+            android:clipToOutline="true"
+            android:contentDescription="News Background"
+            android:cropToPadding="false"
+            android:scaleType="centerCrop"
+            android:src="@drawable/sample_bg"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:layout_width="345dp"
+        android:layout_height="47dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="10dp"
+        android:fontFamily="@font/josefin_sans_thin"
+        android:text="Justin Trudeau to remain Prime Minister of Canada"
+        android:textColor="#2D60E3"
+        android:textFontWeight="900"
+        android:textSize="21sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:lineHeight="23sp" />
+
+    <TextView
+        android:layout_width="345dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="16dp"
+        android:fontFamily="@font/josefin_sans_thin"
+        android:text="On Sep 21, 2021  |  By NewsRoom"
+        android:textColor="#000"
+        android:textFontWeight="900"
+        android:textSize="12sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:lineHeight="23sp" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="fill_horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="16dp"
+            android:layout_marginTop="15dp"
+            android:fontFamily="@font/josefin_sans_thin"
+            android:text="Share: "
+            android:textColor="#000"
+            android:textFontWeight="900"
+            android:textSize="12sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:lineHeight="23sp" />
+
+    <ImageView
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:background="@drawable/rounded_border"
+        android:clipToOutline="true"
+        android:contentDescription="News Background"
+        android:cropToPadding="false"
+        android:scaleType="centerCrop"
+        android:layout_marginTop="13dp"
+        android:src="@drawable/facebook"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_marginLeft="6dp"
+            android:background="@drawable/rounded_border"
+            android:clipToOutline="true"
+            android:contentDescription="News Background"
+            android:cropToPadding="false"
+            android:scaleType="centerCrop"
+            android:layout_marginTop="13dp"
+            android:src="@drawable/instagram"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_marginLeft="6dp"
+            android:background="@drawable/rounded_border"
+            android:clipToOutline="true"
+            android:contentDescription="News Background"
+            android:cropToPadding="false"
+            android:scaleType="centerCrop"
+            android:layout_marginTop="13dp"
+            android:src="@drawable/twitter"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+</LinearLayout>
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="348dp"
+        android:layout_height="457dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="4dp"
+        android:text="Lorem ipsum dolor sit amet consectetur. Tellus molestie donec vel curabitur malesuada id nibh. Ac sed porttitor eu ac. Leo pellentesque donec urna vel aliquam ut id bibendum proin. Vitae sodales risus adipiscing eu auctor. Sit nunc ut tristique suspendisse. Id mattis odio tristique nec vestibulum augue in malesuada. Leo bibendum ante id risus a turpis magna nibh fermentum. Enim dui interdum massa eget rutrum urna malesuada. Vulputate magnis tempus placerat sit magnis integer montes ipsum sollicitudin. Quis lorem amet scelerisque faucibus mauris ut faucibus vulputate. Aliquet risus at donec metus magna quis. Amet enim habitasse massa cras arcu magnis tellus. Elementum sit convallis quis magna nulla id. At dis pellentesque amet at aliquam eu dictumst vitae. Nulla at pellentesque massa pulvinar rhoncus enim nec. Non malesuada eget quis eget ullamcorper ac morbi. Euismod aliquam pellentesque donec quis ut cras."
+        android:textColor="#000"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent" />
+</LinearLayout>
+
+</ScrollView>

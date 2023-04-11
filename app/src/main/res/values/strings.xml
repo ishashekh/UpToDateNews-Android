@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">UpToDate</string>
+    <string name="user_name">Username</string>
+    <string name="input_your_name">Your Name</string>
+    <string name="input_email_address">Email Address</string>
+    <string name="input_password">Password</string>
+    <string name="input_phone_number">Phone Number</string>
+    <string name="input_dob">Date Of Birth</string>
+    <string name="input_search"></string>
+    <string name="input_message">Your Message</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_news_here">Search news here</string>
+
+    <!--Contact Form-->
+
+
+    <string name="contact_form">Contact Us</string>
+
+
+    <string name="contact_form_name">Your Name</string>
+
+
+    <string name="contact_form_email">Your Email</string>
+
+
+    <string name="contact_form_subject">Subject</string>
+
+
+    <string name="contact_form_message">Message</string>
+
+
+    <string name="contact_form_button">Send Message</string>
+
+
+    <string name="contact_form_post_message">Please wait! We\'re sending your message to the support department...</string>
+
+
+    <string name="contact_posted">Your message has been successfully delivered.</string>
+    <string name="description_text">Get the latest breaking news first with the UptoDate News app! \nWith our sleek, updated design, you can stay up-to-date on all the top news stories from around the world. Our app allows you to explore and gain further depth on the topics that matter most to you. \nStay informed and never miss a beat with the UptoDate News app.</string>
+
+</resources>
